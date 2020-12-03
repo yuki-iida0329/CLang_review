@@ -10,4 +10,4 @@ gitの基本操作学習
 firstbranch
 
 #secondbranchで記入
-ABCD
+ABCDEFG
