@@ -2,3 +2,7 @@ hoge2
 
 #理解度を確認するためのテスト
 hogehoge
+
+#ver2作成
+hogehogehoge
+piyo
