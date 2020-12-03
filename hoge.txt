@@ -9,12 +9,9 @@ gitの基本操作学習
 #ブランチを変更
 firstbranch
 
-<<<<<<< HEAD
 #ブランチ変更後2回目のコミット
-=======
 #secondbranchで記入
 ABCDEFG
->>>>>>> secondbranch
 
 #hogehoge
 #hoge
