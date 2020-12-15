@@ -1,0 +1,4 @@
+C言語の基礎の基礎を復習
+
+下記リンクの問題集を元に復習
+https://c-lang.sevendays-study.com/index.html
