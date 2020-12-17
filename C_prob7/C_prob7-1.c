@@ -29,6 +29,5 @@ void main(){
     
     for(k=0; k < i; k++){
         printf("a = %d b = %d c = %d sum = %d\n", num[k][0], num[k][1], num[k][2], num[k][2]*num[k][2]);
-
     }
 }
