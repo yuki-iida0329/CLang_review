@@ -1,11 +1,12 @@
 #include<stdio.h>
+#define arrayMax 100
 
 int a;
 int b;
 int c;
 int x;
 int y;
-int num[100][3];
+int num[arrayMax][3];
 int i=0;
 int j=0;
 int k=0;
